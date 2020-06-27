@@ -7,7 +7,7 @@ https://gumroad.com/outlane?recommended_by=library
 
 ## Music 
 
-Inspector Uninvisble by Lobo Loco:
+Inspector Unvisible by Lobo Loco:
 https://freemusicarchive.org/music/Lobo_Loco
 
 ### Using `degit`

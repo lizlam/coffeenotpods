@@ -25,5 +25,4 @@
 <h1>This is a pirate.</h1>
 <div class="container">
   <img alt="parrot" src="parrot-captain.svg" />
-
 </div>
