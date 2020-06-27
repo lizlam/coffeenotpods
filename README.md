@@ -1,6 +1,5 @@
 # Coffee Not Pods Podcast website
 
-
 ## Illustrations
 
 Illustrations by Outlane: 
