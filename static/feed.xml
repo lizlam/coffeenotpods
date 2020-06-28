@@ -22,7 +22,6 @@ A podcast discussing all things devops.
 </itunes:owner>
 <itunes:image href="https://coffee-not-pods.vercel.app/cnplogo.png"/>
 <itunes:category text="Technology"></itunes:category>
-<itunes:category text="devOps"></itunes:category>
 
 <item>
 <title>What is Devops?</title>
@@ -51,7 +50,7 @@ The word devops gets thrown around a lot these days.  What does it mean?
 https://coffee-not-pods.vercel.app/Lobo_Loco-Inspector_Unvisible.mp3
 </guid>
 <pubDate>07/04/2020</pubDate>
-<itunes:explicit>NO</itunes:explicit>
+<itunes:explicit>false</itunes:explicit>
 </item>
 
 </channel>
