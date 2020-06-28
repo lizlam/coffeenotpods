@@ -20,10 +20,9 @@ A podcast discussing all things devops.
 <itunes:name>CoffeeNotPods</itunes:name>
 <itunes:email>coffeenotpods@protonmail.com</itunes:email>
 </itunes:owner>
-<itunes:image href="https://PODCAST IMAGE.jpg"/>
-<itunes:category text="Devops"></itunes:category>
+<itunes:image href="https://coffee-not-pods.vercel.app/cnplogo.png"/>
+<itunes:category text="Technology"></itunes:category>
 <itunes:category text="devOps"></itunes:category>
-<itunes:category text="DevOps"></itunes:category>
 
 <item>
 <title>What is Devops?</title>
@@ -42,17 +41,17 @@ A quick discussion on what is Devops?
 The word devops gets thrown around a lot these days.  What does it mean?
 ]]>
 </description>
-<itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
-<enclosure url="https://coffee-not-pods.vercel.app/Lobo_Loco-Inspector_Unvisible.mp3" length="LENGTH" type="audio/mpeg"/>
+<itunes:image href="https://coffee-not-pods.vercel.app/cnplogo.png"/>
+<enclosure url="https://coffee-not-pods.vercel.app/Lobo_Loco-Inspector_Unvisible.mp3" length="2048" type="audio/mpeg"/>
 <itunes:duration>3:55 min</itunes:duration>
-<itunes:season>Season 1</itunes:season>
-<itunes:episode>Episode 1</itunes:episode>
+<itunes:season>Season 0</itunes:season>
+<itunes:episode>Episode 0</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
 https://coffee-not-pods.vercel.app/Lobo_Loco-Inspector_Unvisible.mp3
 </guid>
 <pubDate>07/04/2020</pubDate>
-<itunes:explicit>no</itunes:explicit>
+<itunes:explicit>NO</itunes:explicit>
 </item>
 
 </channel>
