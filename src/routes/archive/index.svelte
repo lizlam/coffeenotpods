@@ -14,7 +14,7 @@
 
 <style>
   h1 {
-    font-size: 2.8em;
+    font-size: 5.8em;
     font-weight: 700;
     color: black;
     margin: 0 0 0.5em 0;
@@ -33,8 +33,20 @@
   }
 
   ul {
-    margin: 0 0 1em 0;
+    margin: 20 0 1em 0;
     line-height: 1.5;
+  }
+
+  a {
+    text-decoration: none;
+    font-size: 35px;
+    font-weight: 700;
+    padding: 5px;
+    margin: 5px;
+  }
+
+  a:hover {
+    border-bottom: 1px solid slategrey;
   }
 </style>
 
@@ -51,9 +63,9 @@
 				tell Sapper to load the data for the page as soon as
 				the user hovers over the link or taps it, instead of
 				waiting for the 'click' event -->
-      <li>
+      <div>
         <a rel="prefetch" href="archive/{post.slug}">{post.title}</a>
-      </li>
+      </div>
     {/each}
   </ul>
 </div>

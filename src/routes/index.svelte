@@ -6,7 +6,7 @@
   }
 
   h1 {
-    font-size: 2.8em;
+    font-size: 5.8em;
     font-weight: 700;
     color: black;
     margin: 0 0 0.5em 0;
@@ -23,21 +23,21 @@
     margin: 1em auto;
   }
 
-  @media (min-width: 480px) {
-    h1 {
-      font-size: 4em;
-    }
-  }
-
   .container {
     display: grid;
     grid-template-columns: auto auto;
   }
 
   .audio {
+    font-size: 2em;
+    font-weight: 700;
     display: grid;
     justify-content: start;
     align-self: center;
+  }
+
+  strong {
+    font-size: 3em;
   }
 </style>
 
@@ -57,5 +57,5 @@
   </div>
 </div>
 <p>
-  <strong>A podcast about Devops, devops, devOps, and DevOps.</strong>
+  <strong>A Devops Podcast.</strong>
 </p>
