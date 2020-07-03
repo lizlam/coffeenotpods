@@ -20,7 +20,7 @@ A podcast discussing all things devops.
 <itunes:name>CoffeeNotPods</itunes:name>
 <itunes:email>coffeenotpods@protonmail.com</itunes:email>
 </itunes:owner>
-<itunes:image href="https://coffee-not-pods.vercel.app/cnplogo.png"/>
+<itunes:image href="https://coffee-not-pods.vercel.app/podcastlogo.png"/>
 <itunes:category text="Technology"></itunes:category>
 
 <item>
