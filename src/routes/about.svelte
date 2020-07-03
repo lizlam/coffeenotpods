@@ -1,3 +1,7 @@
+<script>
+  import { fade, fly } from "svelte/transition";
+</script>
+
 <style>
   h1 {
     font-size: 5.8em;
@@ -22,7 +26,9 @@
 <svelte:head>
   <title>About</title>
 </svelte:head>
-<h1>This is a pirate.</h1>
-<div class="container">
-  <img alt="parrot" src="parrot-captain.svg" />
-</div>
+<main>
+  <h1 in:fly={{ x: 200, duration: 2000 }}>This is a pirate.</h1>
+  <div class="container">
+    <img alt="parrot" src="parrot-captain.svg" />
+  </div>
+</main>
