@@ -22,6 +22,7 @@ A podcast discussing all things devops.
 </itunes:owner>
 <itunes:image href="https://coffee-not-pods.vercel.app/podcastlogo.png"/>
 <itunes:category text="Technology"></itunes:category>
+<itunes:explicit>false</itunes:explicit>
 
 <item>
 <title>What is Devops?</title>
@@ -51,6 +52,7 @@ https://coffee-not-pods.vercel.app/Lobo_Loco-Inspector_Unvisible.mp3
 </guid>
 <pubDate>07/04/2020</pubDate>
 <itunes:explicit>false</itunes:explicit>
+<link>https://coffee-not-pods.vercel.app/archive/what-is-devops</link>
 </item>
 
 </channel>
