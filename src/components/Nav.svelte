@@ -57,9 +57,9 @@
     </li>
     <li>
       <a
-        aria-current={segment === 'RSS Feed' ? 'page' : undefined}
+        aria-current={segment === 'RSS' ? 'page' : undefined}
         href="https://coffee-not-pods.vercel.app/feed.xml">
-        RSS Feed
+        RSS
       </a>
     </li>
     <!-- for the blog link, we're using rel=prefetch so that Sapper prefetches
